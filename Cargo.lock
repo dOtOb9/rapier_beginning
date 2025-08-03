@@ -317,6 +317,7 @@ dependencies = [
 name = "rapier_beginning"
 version = "0.1.0"
 dependencies = [
+ "nalgebra",
  "rapier2d",
 ]
 
